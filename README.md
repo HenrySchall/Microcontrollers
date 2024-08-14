@@ -3,23 +3,22 @@
 
 ### Componentes Básicos
 
-1) LEDs (Light Emitting Diodes) -> Pequenas lâmpadas que acendem quando corrente elétrica passa por elas, indicando o estado de um sistema
-2) Resistores -> É o componente que limita a quantidade de corrente elétrica, utilizado para proteger outros componentes de receberem muita corrente e se queimarem
-3) Botões (Push Buttons) -> Dispositivos de entrada que permitem ao usuário interagir com o Arduino, enviando sinais de alta ou baixa (on/off)
+1) LEDs (Light Emitting Diodes) -> Pequenas lâmpadas que acendem quando corrente elétrica passa por elas, indicando o estado de um sistema.
+2) Resistores -> É o componente que limita a quantidade de corrente elétrica, utilizado para proteger outros componentes de receberem muita corrente e se queimarem.
+3) Botões (Push Buttons) -> Dispositivos de entrada que permitem ao usuário interagir com o Arduino, enviando sinais de alta ou baixa (on/off).
 4) Sensores ->  Dispositivos que detectam mudanças no ambiente e enviam essa informação ao Arduino. Tipos: Sensor de temperatura: Detecta mudanças de temperatura, 
-Sensor de luz (LDR): Detecta a quantidade de luz ambiente, Sensor de ultrassom: Mede distâncias
+Sensor de luz (LDR): Detecta a quantidade de luz ambiente, Sensor de ultrassom: Mede distâncias.
 5) Motores -> Dispositivos que convertem energia elétrica em movimento. Tipos: Servo motor (Controla posição e ângulo), Motor DC (Gira em alta velocidade e pode ser controlado com um transistor),
-Motor de passo (Gira em passos discretos, ideal para controle preciso de posição)
-6) Displays ->
-7) Potenciômetros ->
-8) Buzzer ->
-9) Fios Jumper (Jumper Wires) ->
-10) Protoboard ->
-11) Transistores ->
-12) Capacitores ->  
+Motor de passo (Gira em passos discretos, ideal para controle preciso de posição).
+6) Displays -> Dispositivos de saída que mostram informações ao usuário. Tipos: Display de 7 segmentos, mostra números e alguns caracteres) e LCD (Liquid Crystal Display), mostrar texto e gráficos.
+7) Potenciômetros -> Resistores ajustáveis que permitem variar a resistência manualmente.
+8) Buzzer -> Um pequeno alto-falante que emite sons quando alimentado com uma corrente elétrica.
+9) Fios Jumper (Jumper Wires) -> Fios usados para conectar componentes.
+10) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
+11) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
+12) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
-
-
+![Imagemf](https://github.com/user-attachments/assets/ba4cafe4-18e3-4ba7-be9a-47c13b7ac4e3)
 
 
 ```r
