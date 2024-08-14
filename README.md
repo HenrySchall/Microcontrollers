@@ -89,9 +89,7 @@ void loop() {
 }
 ```
 
-
-
-
+![Captura de tela 2024-08-14 163210 (1)](https://github.com/user-attachments/assets/0deb37d1-1ccf-48a8-ab8e-680847ed7cf5)
 
 
 
