@@ -45,6 +45,37 @@
 
 12) Diodos -> É um componente que permite a passagem de corrente elétrica em apenas uma direção
 
+### Onde comprar materiais
+#### Brasil
+- Usina Info
+- RoboCore
+- Ponto da Eletrônica
+-  Solda Fria
+
+#### Exterior
+- Aliexpress
+- DFRobot
+- Seeed Studio Bazaar
+- Sparkfun
+- Pololu
+
+### Introdução à Eletrônica
+#### Conceitos Básicos
+
+1) Carga Elétrica -> É a propriedade das partículas subatômicas, que causam as forças elétricas, podendo ser positivas (prótons) ou negativas (elétrons). Unidade: Coulomb (C),
+
+2) Tensão Elétrica (Diferença de Potencial) -> É a diferença de potencial elétrica entre dois pontos, essa diferença que permite a corrente elétrica fluir. Por este motivo quando utiliza-se o multímetro para verificar a tensão em determinado ponto de um circuito, usa-se sempre duas ponteiras, comumente a vermelha e a preta. A preta vai no ponto referencial, onde será medida a tensão de referencia, geralmente negativa, terra ou ground (GND). A vermelha vai no ponto positivo da tensão, local onde realmente queremos saber quantos volts temos a partir do referencial. Unidade: Volt (V).
+
+> Tensão Contínua (DC) X Tensão Alternada (AC) -> A Corrente Contínua (DC) flui em uma única direção (comumente + -> -). Já a Corrente Alternada (AC) alterna sua direção periodicamente (+ -> - ou - -> +)
+
+3) Corrente Elétrica -> É o fluxo ordenado de cargas elétricas através de um condutor, ou seja, é o fluxo de elétrons gerado pela tensão aplicada. Para exemplificar, podemos dizer que a tensão tensão elétrica "empurra" os elétrons pelos condutores de um circuito, e esse fluxo é dado o nome de corrente elétrica. Unidade: Ampere (A).
+   
+4) Resistência Elétrica -> É a oposição ao fluxo de corrente em um material, ou seja, é responsável por enfraquecer o fluxo de cargas elétricas. Todo material condutor apresenta alguma resistência ao movimento dos elétrons, materiais como borracha, porcelana e o próprio ar tem uma alta resistência à passagem de corrente elétrica, por isso são chamados de isolantes. Já os metais a corrente flui de forma mais fácil por ter uma baixa resistência, sendo chamados de condutores. Unidade: Ohm (Ω)
+
+5) Potência Elétrica -> É a taxa na qual a energia elétrica é convertida em outra forma de energia (como calor, luz, etc.). Unidade: Watt (W)
+
+6) Capacitância -> É a capacidade de um componente (capacitor) armazenar energia elétrica sob a forma de campo elétrico. Unidade: Farad (F)
+
 ### Programação
 #### Estrutura básica
 ```C++
