@@ -40,21 +40,61 @@
 9) Fios Jumper (Jumper Wires) -> Fios usados para conectar componentes.
 
 10) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
+    - Os slots das extremidades (+ e -) são interligados verticalmente
+    - Os slots centrais (a,b,c,d,...) são interligados horizontalmente
 
-11) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
+12) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
 
-12) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
+13) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
 ![Imagemf](https://github.com/user-attachments/assets/ba4cafe4-18e3-4ba7-be9a-47c13b7ac4e3)
 
 ### Programação
+#### Estrutura básica
+```C++
+// Função que define as variáveis 
+#define -> tipo primitivo + nome + 
 
+// Função que define as configurações dos dispositivos (executada uma única vez)
+void setup() {
+   pinMode (Nome_do_dispositivo, Status_de_energia);
 
+/* Status de energia:
+OUTPUT = Saída
+INPUT = Entrada */
 
+}
 
-
-```r
+// Função que define os comandos a serem executados (se mantém em execução)
+void loop() {
+}
 ```
+
+##### Exemplo
+```C++
+int ledRed = 8;
+int ledBlue = 7;
+
+// Função que define as configurações dos dispositivos (executada uma única vez)
+void setup() {
+   pinMode (ledRed, OUTPUT);
+   pinMode (ledBlue, OUTPUT);
+}
+
+// Função que define os comandos a serem executados (se mantém em execução)
+void loop() {
+   digitalWrite(ledRed, HIGH);
+   digitalWrite(ledBlue, LOW);
+   delay(1000);
+}
+```
+
+
+
+
+
+
+
 ### Estatística
  **Descritiva, Inferencial e Probabilística.**
 - Descritiva é aquela relacionada a descrição dos dados, representada pelas medidas de: centralidade (Média, moda e mediana), posição (Amplitude e Quartis), dispersão (Variância e Desvio Padrão).
