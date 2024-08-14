@@ -14,8 +14,8 @@
    - Cada resistor possui um padrão, os mais fáceis de achar são de 480ohm ou 330ohm, utilizar um frequência menor que a ideal diminui a vida útil do componente e maior que a ideal diminui a luminosidade (caso de LED)
 
 4) Botões (Push Buttons) -> Dispositivos de entrada que permitem ao usuário interagir com o Arduino, enviando sinais de alta ou baixa (on/off).
-   - Terminais verticais são identicos
-   - Terminais Paralelos são paralelos 
+   - Terminais verticais são idênticos (curto-circuitados)
+   - Terminais Paralelos são distintos
 
 5) Sensores ->  Dispositivos que detectam mudanças no ambiente e enviam essa informação ao Arduino. Tipos:
   - Sensor de temperatura: Detecta mudanças de temperatura, 
@@ -35,19 +35,15 @@
   - Logaritmico
   - Linear
 
-8) Buzzer -> Um pequeno alto-falante que emite sons quando alimentado com uma corrente elétrica.
-
-9) Fios Jumper (Jumper Wires) -> Fios usados para conectar componentes.
-
-10) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
+8) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
     - Os slots das extremidades (+ e -) são interligados verticalmente
     - Os slots centrais (a,b,c,d,...) são interligados horizontalmente
 
-12) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
+10) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
 
-13) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
+11) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
-![Imagemf](https://github.com/user-attachments/assets/ba4cafe4-18e3-4ba7-be9a-47c13b7ac4e3)
+12) Diodos -> É um componente que permite a passagem de corrente elétrica em apenas uma direção
 
 ### Programação
 #### Estrutura básica
@@ -90,10 +86,3 @@ void loop() {
 ```
 
 ![Captura de tela 2024-08-14 163210 (1)](https://github.com/user-attachments/assets/0deb37d1-1ccf-48a8-ab8e-680847ed7cf5)
-
-
-
-### Estatística
- **Descritiva, Inferencial e Probabilística.**
-- Descritiva é aquela relacionada a descrição dos dados, representada pelas medidas de: centralidade (Média, moda e mediana), posição (Amplitude e Quartis), dispersão (Variância e Desvio Padrão).
-
