@@ -8,6 +8,7 @@ int buttonState = 0;
 void setup() {
   // Define o pino do LED como saída
   pinMode(ledPin, OUTPUT);
+  
 
   // Define o pino do botão como entrada
   pinMode(buttonPin, INPUT);
@@ -24,5 +25,5 @@ void loop() {
   } else {
     // Se o botão não estiver pressionado, apaga o LED
     digitalWrite(ledPin, LOW);
-  }
+  } 
 }
