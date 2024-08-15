@@ -14,8 +14,8 @@
    - Cada resistor possui um padrão, os mais fáceis de achar são de 480ohm ou 330ohm, utilizar um frequência menor que a ideal diminui a vida útil do componente e maior que a ideal diminui a luminosidade (caso de LED)
 
 4) Botões (Push Buttons) -> Dispositivos de entrada que permitem ao usuário interagir com o Arduino, enviando sinais de alta ou baixa (on/off).
-   - Terminais verticais são identicos
-   - Terminais Paralelos são paralelos 
+   - Terminais verticais são idênticos (curto-circuitados)
+   - Terminais Paralelos são distintos
 
 5) Sensores ->  Dispositivos que detectam mudanças no ambiente e enviam essa informação ao Arduino. Tipos:
   - Sensor de temperatura: Detecta mudanças de temperatura, 
@@ -35,27 +35,85 @@
   - Logaritmico
   - Linear
 
-8) Buzzer -> Um pequeno alto-falante que emite sons quando alimentado com uma corrente elétrica.
+8) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
+    - Os slots das extremidades (+ e -) são interligados verticalmente
+    - Os slots centrais (a,b,c,d,...) são interligados horizontalmente
 
-9) Fios Jumper (Jumper Wires) -> Fios usados para conectar componentes.
+10) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
 
-10) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
+11) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
-11) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
+12) Diodos -> É um componente que permite a passagem de corrente elétrica em apenas uma direção
 
-12) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
+### Onde comprar materiais
+#### Brasil
+- Usina Info
+- RoboCore
+- Ponto da Eletrônica
+-  Solda Fria
 
-![Imagemf](https://github.com/user-attachments/assets/ba4cafe4-18e3-4ba7-be9a-47c13b7ac4e3)
+#### Exterior
+- Aliexpress
+- DFRobot
+- Seeed Studio Bazaar
+- Sparkfun
+- Pololu
+
+### Introdução à Eletrônica
+#### Conceitos Básicos
+
+1) Carga Elétrica -> É a propriedade das partículas subatômicas, que causam as forças elétricas, podendo ser positivas (prótons) ou negativas (elétrons). Unidade: Coulomb (C),
+
+2) Tensão Elétrica (Diferença de Potencial) -> É a diferença de potencial elétrica entre dois pontos, essa diferença que permite a corrente elétrica fluir. Por este motivo quando utiliza-se o multímetro para verificar a tensão em determinado ponto de um circuito, usa-se sempre duas ponteiras, comumente a vermelha e a preta. A preta vai no ponto referencial, onde será medida a tensão de referencia, geralmente negativa, terra ou ground (GND). A vermelha vai no ponto positivo da tensão, local onde realmente queremos saber quantos volts temos a partir do referencial. Unidade: Volt (V).
+
+> Tensão Contínua (DC) X Tensão Alternada (AC) -> A Corrente Contínua (DC) flui em uma única direção (comumente + -> -). Já a Corrente Alternada (AC) alterna sua direção periodicamente (+ -> - ou - -> +)
+
+3) Corrente Elétrica -> É o fluxo ordenado de cargas elétricas através de um condutor, ou seja, é o fluxo de elétrons gerado pela tensão aplicada. Para exemplificar, podemos dizer que a tensão tensão elétrica "empurra" os elétrons pelos condutores de um circuito, e esse fluxo é dado o nome de corrente elétrica. Unidade: Ampere (A).
+   
+4) Resistência Elétrica -> É a oposição ao fluxo de corrente em um material, ou seja, é responsável por enfraquecer o fluxo de cargas elétricas. Todo material condutor apresenta alguma resistência ao movimento dos elétrons, materiais como borracha, porcelana e o próprio ar tem uma alta resistência à passagem de corrente elétrica, por isso são chamados de isolantes. Já os metais a corrente flui de forma mais fácil por ter uma baixa resistência, sendo chamados de condutores. Unidade: Ohm (Ω)
+
+5) Potência Elétrica -> É a taxa na qual a energia elétrica é convertida em outra forma de energia (como calor, luz, etc.). Unidade: Watt (W)
+
+6) Capacitância -> É a capacidade de um componente (capacitor) armazenar energia elétrica sob a forma de campo elétrico. Unidade: Farad (F)
 
 ### Programação
+#### Estrutura básica
+```C++
+// Função que define as variáveis 
+#define -> tipo primitivo + nome + 
 
+// Função que define as configurações dos dispositivos (executada uma única vez)
+void setup() {
+   pinMode (Nome_do_dispositivo, Status_de_energia);
 
+/* Status de energia:
+OUTPUT = Saída
+INPUT = Entrada */
 
+}
 
-
-```r
+// Função que define os comandos a serem executados (se mantém em execução)
+void loop() {
+}
 ```
-### Estatística
- **Descritiva, Inferencial e Probabilística.**
-- Descritiva é aquela relacionada a descrição dos dados, representada pelas medidas de: centralidade (Média, moda e mediana), posição (Amplitude e Quartis), dispersão (Variância e Desvio Padrão).
 
+##### Exemplo
+```C++
+int ledRed = 8;
+int ledBlue = 7;
+
+// Função que define as configurações dos dispositivos (executada uma única vez)
+void setup() {
+   pinMode (ledRed, OUTPUT);
+   pinMode (ledBlue, OUTPUT);
+}
+
+// Função que define os comandos a serem executados (se mantém em execução)
+void loop() {
+   digitalWrite(ledRed, HIGH);
+   digitalWrite(ledBlue, LOW);
+   delay(1000);
+}
+```
+
+![Captura de tela 2024-08-14 163210 (1)](https://github.com/user-attachments/assets/0deb37d1-1ccf-48a8-ab8e-680847ed7cf5)
