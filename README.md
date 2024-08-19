@@ -76,7 +76,7 @@
 
 6) Capacitância -> É a capacidade de um componente (capacitor) armazenar energia elétrica sob a forma de campo elétrico. Unidade: Farad (F)
 
-![Esquema](https://github.com/user-attachments/assets/624080d8-9c3f-4b05-b0be-de6eca21a076)
+![Esquema](https://github.com/user-attachments/assets/79be492c-d5ed-4268-ae54-20308e9880e6)
 
 ### Programação
 #### Estrutura básica
