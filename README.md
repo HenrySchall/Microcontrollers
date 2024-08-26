@@ -1,6 +1,8 @@
 ## Introdução
 > Arduino é uma plataforma de prototipagem eletrônica open-source, ou seja, uma plataforma de criação de circuitos eletrônicos ou sistemas antes da produção em larga escala ou final. Sua estrtutura consiste em uma placa de hardware e um ambiente de desenvolvimento programável (IDE). A placa Arduino possui um microcontrolador (pequeno computador), que através de entradas e saídas digitais e analógicas é capaz de controlar diversos dispositivos eletrônicos, como sensores, motores e LEDs. Já a IDE do Arduino permite programar a placa utlizando-se da linguagem C/C++, que executa diversos comandos, estabelecendo instruções para o dispositivo entender e executar de acordo com os parâmetros desejados.
 
+https://wokwi.com/projects/new/arduino-uno
+
 ### Componentes Básicos
 
 1) LEDs (Light Emitting Diodes) -> Pequenas lâmpadas que acendem quando corrente elétrica passa por elas, indicando o estado de um sistema.
