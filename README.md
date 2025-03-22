@@ -1,7 +1,5 @@
 ## Introdução
-> Arduino é uma plataforma de prototipagem eletrônica open-source, ou seja, uma plataforma de criação de circuitos eletrônicos ou sistemas antes da produção em larga escala ou final. Sua estrtutura consiste em uma placa de hardware e um ambiente de desenvolvimento programável (IDE). A placa Arduino possui um microcontrolador (pequeno computador), que através de entradas e saídas digitais e analógicas é capaz de controlar diversos dispositivos eletrônicos, como sensores, motores e LEDs. Já a IDE do Arduino permite programar a placa utlizando-se da linguagem C/C++, que executa diversos comandos, estabelecendo instruções para o dispositivo entender e executar de acordo com os parâmetros desejados.
-
-https://wokwi.com/projects/new/arduino-uno
+> Arduino é uma plataforma de prototipagem eletrônica open-source, ou seja, uma plataforma de criação de circuitos eletrônicos ou sistemas antes da produção em larga escala. Sua estrututura consiste em uma placa de hardware e um ambiente de desenvolvimento programável (IDE). A placa Arduino possui um microcontrolador, que através de entradas e saídas digitais e analógicas é capaz de controlar diversos dispositivos eletrônicos, como sensores, motores e LEDs. A IDE do Arduino permite programar a placa utlizando-se da linguagem C/C++, que eprocessa as instruções para o dispositivo entender e executar de acordo com os parâmetros desejados.
 
 ### Componentes Básicos
 
@@ -16,8 +14,8 @@ https://wokwi.com/projects/new/arduino-uno
    - Cada resistor possui um padrão, os mais fáceis de achar são de 480ohm ou 330ohm, utilizar um frequência menor que a ideal diminui a vida útil do componente e maior que a ideal diminui a luminosidade (caso de LED)
 
 4) Botões (Push Buttons) -> Dispositivos de entrada que permitem ao usuário interagir com o Arduino, enviando sinais de alta ou baixa (on/off).
-   - Terminais verticais são idênticos (curto-circuitados)
-   - Terminais Paralelos são distintos
+   - Terminais verticais são identicos
+   - Terminais Paralelos são paralelos 
 
 5) Sensores ->  Dispositivos que detectam mudanças no ambiente e enviam essa informação ao Arduino. Tipos:
   - Sensor de temperatura: Detecta mudanças de temperatura, 
@@ -37,31 +35,16 @@ https://wokwi.com/projects/new/arduino-uno
   - Logaritmico
   - Linear
 
-8) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
-    - Os slots das extremidades (+ e -) são interligados verticalmente
-    - Os slots centrais (a,b,c,d,...) são interligados horizontalmente
+8) Buzzer -> Um pequeno alto-falante que emite sons quando alimentado com uma corrente elétrica.
 
-10) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
+9) Fios Jumper (Jumper Wires) -> Fios usados para conectar componentes.
 
-11) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
+10) Protoboard -> Uma placa usada para montar circuitos temporários sem a necessidade de solda.
 
-12) Diodos -> É um componente que permite a passagem de corrente elétrica em apenas uma direção
+11) Transistores -> Componentes que podem atuar como interruptores ou amplificadores de correntes.
 
-### Onde comprar materiais
-#### Brasil
-- Usina Info
-- RoboCore
-- Ponto da Eletrônica
--  Solda Fria
+12) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
-#### Exterior
-- Aliexpress
-- DFRobot
-- Seeed Studio Bazaar
-- Sparkfun
-- Pololu
-
-### Introdução à Eletrônica
 #### Conceitos Básicos
 
 1) Carga Elétrica -> É a propriedade das partículas subatômicas, que causam as forças elétricas, podendo ser positivas (prótons) ou negativas (elétrons). Unidade: Coulomb (C),
@@ -77,47 +60,3 @@ https://wokwi.com/projects/new/arduino-uno
 5) Potência Elétrica -> É a taxa na qual a energia elétrica é convertida em outra forma de energia (como calor, luz, etc.). Unidade: Watt (W)
 
 6) Capacitância -> É a capacidade de um componente (capacitor) armazenar energia elétrica sob a forma de campo elétrico. Unidade: Farad (F)
-
-![Esquema](https://github.com/user-attachments/assets/79be492c-d5ed-4268-ae54-20308e9880e6)
-
-### Programação
-#### Estrutura básica
-```C++
-// Função que define as variáveis 
-#define -> tipo primitivo + nome + 
-
-// Função que define as configurações dos dispositivos (executada uma única vez)
-void setup() {
-   pinMode (Nome_do_dispositivo, Status_de_energia);
-
-/* Status de energia:
-OUTPUT = Saída
-INPUT = Entrada */
-
-}
-
-// Função que define os comandos a serem executados (se mantém em execução)
-void loop() {
-}
-```
-
-##### Exemplo
-```C++
-int ledRed = 8;
-int ledBlue = 7;
-
-// Função que define as configurações dos dispositivos (executada uma única vez)
-void setup() {
-   pinMode (ledRed, OUTPUT);
-   pinMode (ledBlue, OUTPUT);
-}
-
-// Função que define os comandos a serem executados (se mantém em execução)
-void loop() {
-   digitalWrite(ledRed, HIGH);
-   digitalWrite(ledBlue, LOW);
-   delay(1000);
-}
-```
-
-![Captura de tela 2024-08-14 163210 (1)](https://github.com/user-attachments/assets/0deb37d1-1ccf-48a8-ab8e-680847ed7cf5)
