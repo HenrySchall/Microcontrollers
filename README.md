@@ -51,7 +51,9 @@
 
 2) Tensão Elétrica (Diferença de Potencial) -> É a diferença de potencial elétrica entre dois pontos, essa diferença que permite a corrente elétrica fluir. Por este motivo quando utiliza-se o multímetro para verificar a tensão em determinado ponto de um circuito, usa-se sempre duas ponteiras, comumente a vermelha e a preta. A preta vai no ponto referencial, onde será medida a tensão de referencia, geralmente negativa, terra ou ground (GND). A vermelha vai no ponto positivo da tensão, local onde realmente queremos saber quantos volts temos a partir do referencial. Unidade: Volt (V).
 
-> Tensão Contínua (DC) X Tensão Alternada (AC) -> A Corrente Contínua (DC) flui em uma única direção (comumente + -> -). Já a Corrente Alternada (AC) alterna sua direção periodicamente (+ -> - ou - -> +)
+##### Tensão Contínua (DC) X Tensão Alternada (AC)
+- Corrente Contínua (DC) flui em uma única direção (comumente + -> -)
+- Corrente Alternada (AC) alterna sua direção periodicamente (+ -> - ou - -> +)
 
 3) Corrente Elétrica -> É o fluxo ordenado de cargas elétricas através de um condutor, ou seja, é o fluxo de elétrons gerado pela tensão aplicada. Para exemplificar, podemos dizer que a tensão tensão elétrica "empurra" os elétrons pelos condutores de um circuito, e esse fluxo é dado o nome de corrente elétrica. Unidade: Ampere (A).
    
