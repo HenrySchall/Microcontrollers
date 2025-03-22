@@ -59,6 +59,6 @@
    
 4) Resistência Elétrica -> É a oposição ao fluxo de corrente em um material, ou seja, é responsável por enfraquecer o fluxo de cargas elétricas. Todo material condutor apresenta alguma resistência ao movimento dos elétrons, materiais como borracha, porcelana e o próprio ar tem uma alta resistência à passagem de corrente elétrica, por isso são chamados de isolantes. Já os metais a corrente flui de forma mais fácil por ter uma baixa resistência, sendo chamados de condutores. Unidade: Ohm (Ω)
 
-5) Potência Elétrica -> É a taxa na qual a energia elétrica é convertida em outra forma de energia (como calor, luz, etc.). Unidade: Watt (W)
+5) Potência Elétrica -> É a taxa na qual a energia elétrica é convertida em outra forma de energia (calor, luz). Unidade: Watt (W)
 
 6) Capacitância -> É a capacidade de um componente (capacitor) armazenar energia elétrica sob a forma de campo elétrico. Unidade: Farad (F)
