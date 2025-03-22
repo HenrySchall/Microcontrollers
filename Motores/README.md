@@ -45,17 +45,11 @@
 
 12) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
-![Imagemf](https://github.com/user-attachments/assets/ba4cafe4-18e3-4ba7-be9a-47c13b7ac4e3)
+
 
 ### Programação
 
-
-
-
-
 ```r
 ```
-### Estatística
- **Descritiva, Inferencial e Probabilística.**
-- Descritiva é aquela relacionada a descrição dos dados, representada pelas medidas de: centralidade (Média, moda e mediana), posição (Amplitude e Quartis), dispersão (Variância e Desvio Padrão).
+
 
