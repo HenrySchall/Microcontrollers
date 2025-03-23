@@ -24,6 +24,8 @@ hardwareCada variável deve ter um tipo específico;
 
 ### Potenciômetro
 
+![Captura de tela 2025-03-22 222321](https://github.com/user-attachments/assets/50bbf095-ff63-4a34-be38-97f4e50757a6)
+
 ### Diodo 
 
 ![Captura de tela 2025-03-22 220909](https://github.com/user-attachments/assets/425d3cdd-5b73-43a3-aac6-1ba8bb2727ac)
