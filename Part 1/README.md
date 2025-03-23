@@ -31,3 +31,8 @@ hardwareCada variável deve ter um tipo específico;
 ### Diodo 
 
 ![Captura de tela 2025-03-22 220909](https://github.com/user-attachments/assets/425d3cdd-5b73-43a3-aac6-1ba8bb2727ac)
+
+### Transistor 
+
+![Captura de tela 2025-03-22 223016](https://github.com/user-attachments/assets/20b34541-ecc4-473e-a880-4df401c1aba4)
+
