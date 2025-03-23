@@ -45,6 +45,8 @@
 
 12) Capacitores -> Armazenadores e liberadores de energia elétrica, usados para estabilizar a alimentação e filtrar ruídos.
 
+![359228962-79be492c-d5ed-4268-ae54-20308e9880e6](https://github.com/user-attachments/assets/fa465b58-7f1a-4ec7-9f2d-0e93c1cf7517)
+
 #### Conceitos Básicos
 
 1) Carga Elétrica -> É a propriedade das partículas subatômicas, que causam as forças elétricas, podendo ser positivas (prótons) ou negativas (elétrons). Unidade: Coulomb (C),
