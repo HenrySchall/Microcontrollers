@@ -18,6 +18,12 @@ hardwareCada variável deve ter um tipo específico;
 
 ![Captura de tela 2025-03-22 220102](https://github.com/user-attachments/assets/72c4d2e5-9699-4076-ba93-62878dc6ec58)
 
+### Interruptor
+
+![Captura de tela 2025-03-22 221534](https://github.com/user-attachments/assets/de78aece-4599-4b00-9e71-6d58696ab27d)
+
+### Potenciômetro
+
 ### Diodo 
 
 ![Captura de tela 2025-03-22 220909](https://github.com/user-attachments/assets/425d3cdd-5b73-43a3-aac6-1ba8bb2727ac)
