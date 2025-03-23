@@ -36,3 +36,7 @@ hardwareCada variável deve ter um tipo específico;
 
 ![Captura de tela 2025-03-22 223016](https://github.com/user-attachments/assets/20b34541-ecc4-473e-a880-4df401c1aba4)
 
+Linhas sao conectadas horuzontalmente e as colunas (+/-) sao conectdas verticalmente 
+
+Botoes funcionam em paralelos
+
