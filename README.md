@@ -1,6 +1,7 @@
 ## Arduino
 
-![Imagem sobre Arduino  22-03-2025 at 22-39-04](https://github.com/user-attachments/assets/20e24f59-9daf-41e3-9933-650284b0fd59)
+![file_00000000fc745230875f404f623a31bc_conversation_id_67e68459-4f84-800c-84fb-2f8ade0c7bce message_id_7fbb081f-58ca-400f-816e-9f3c6b273727](https://github.com/user-attachments/assets/3d696afe-06e9-41b6-bcc2-ebfa9018f58e)
+
 
 > Arduino é uma plataforma de prototipagem eletrônica open-source, ou seja, uma plataforma de criação de circuitos eletrônicos ou sistemas antes da produção em larga escala. Sua estrututura consiste em uma placa de hardware e um ambiente de desenvolvimento programável (IDE). A placa Arduino possui um microcontrolador, que através de entradas e saídas digitais e analógicas é capaz de controlar diversos dispositivos eletrônicos, como sensores, motores e LEDs. A IDE do Arduino permite programar a placa utlizando-se da linguagem C/C++, que eprocessa as instruções para o dispositivo entender e executar de acordo com os parâmetros desejados.
 
