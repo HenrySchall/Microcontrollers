@@ -68,3 +68,5 @@
 5) Potência Elétrica -> É a taxa na qual a energia elétrica é convertida em outra forma de energia (calor, luz). Unidade: Watt (W)
 
 6) Capacitância -> É a capacidade de um componente (capacitor) armazenar energia elétrica sob a forma de campo elétrico. Unidade: Farad (F)
+
+https://www.ackerdemy.com/
