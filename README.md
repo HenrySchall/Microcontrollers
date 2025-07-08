@@ -1,7 +1,44 @@
-## Microcontrollers
+<div id="top">
 
-![file_00000000fc745230875f404f623a31bc_conversation_id_67e68459-4f84-800c-84fb-2f8ade0c7bce message_id_7fbb081f-58ca-400f-816e-9f3c6b273727](https://github.com/user-attachments/assets/3d696afe-06e9-41b6-bcc2-ebfa9018f58e)
+<!-- HEADER STYLE: CLASSIC -->
+<div align="center">
 
+# Microcontrollers
+![Img](https://github.com/user-attachments/assets/3d696afe-06e9-41b6-bcc2-ebfa9018f58e)
+
+<!-- BADGES -->
+<img src="https://img.shields.io/github/license/HenrySchall/Artificial_Intelligence?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+<img src="https://img.shields.io/github/last-commit/HenrySchall/Artificial_Intelligence?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/HenrySchall/Artificial_Intelligence?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/HenrySchall/Artificial_Intelligence?style=flat&color=0080ff" alt="repo-language-count">
+
+<em>Built with the tools and technologies:</em>
+
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+
+</div>
+<br>
+
+---
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Testing](#testing)
+- [Features](#features)
+- [Project Structure](#project-structure)
+    - [Project Index](#project-index)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgment](#acknowledgment)
+
+---
+## Overview
 
 > Arduino é uma plataforma de prototipagem eletrônica open-source, ou seja, uma plataforma de criação de circuitos eletrônicos ou sistemas antes da produção em larga escala. Sua estrututura consiste em uma placa de hardware e um ambiente de desenvolvimento programável (IDE). A placa Arduino possui um microcontrolador, que através de entradas e saídas digitais e analógicas é capaz de controlar diversos dispositivos eletrônicos, como sensores, motores e LEDs. A IDE do Arduino permite programar a placa utlizando-se da linguagem C/C++, que eprocessa as instruções para o dispositivo entender e executar de acordo com os parâmetros desejados.
 
