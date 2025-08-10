@@ -66,9 +66,35 @@ Revenue Growth
 
 Growth Analytics
 
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-penal-50hfi/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-processual-penal/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-civil-qzufl/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-processual-civil/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-tributario-mf/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-imobiliario/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/empresarial-extensivo/
+- https://descomplica.com.br/d/acesse-aqui-todas-as-disciplinas/direito-ambiental/parte-especial-yzghj/mineracao/
+- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/jurimetria#ancora-2
+- https://academiadedireito.com.br/planejamento-patrimonial/
+- https://www.imperial.ac.uk/business-school/masters/investment-wealth-management/
+- https://www.uni.lu/fdef-en/study-programs/master-in-wealth-management/
+- https://www.unige.ch/gsem/en/programs/masters/wealth-management/
+- https://direitosp.fgv.br/cursos/pos-graduacao-lato-sensu/fgvlaw-planejamento-patrimonial-sucessorio
 
 
+- Wealth
+- Family Foudation
+- offshore Trust
+- Golden Visa
+- REal Wealth pRotecs Offshore
+- Offshore LLC
+- Offshore Bank
+- Second Passport
+- Nominee Corporations
+M&A, Private Equity e Valuation
 
+
+https://www.saintpaul.com.br/cursos/educacao-executiva/valuation-avaliacao-de-empresas-fusoes-aquisicoes-e-acoes/?utm_feeditemid&utm_device=m&utm_term=curso%20an%C3%A1lise%20fundamentalista%20e%20valuation&utm_source=google&utm_medium=ppc&utm_campaign=%5BNW%5D%2B%5BS%5D%2BEDUCA%C3%87%C3%83O%2BEXECUTIVA%2BSP%2B-%2BMARCA&gad_campaignid=21791130199
 
 
 
