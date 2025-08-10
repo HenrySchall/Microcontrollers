@@ -100,6 +100,41 @@ M&A, Private Equity e Valuation
 https://www.saintpaul.com.br/cursos/educacao-executiva/valuation-avaliacao-de-empresas-fusoes-aquisicoes-e-acoes/?utm_feeditemid&utm_device=m&utm_term=curso%20an%C3%A1lise%20fundamentalista%20e%20valuation&utm_source=google&utm_medium=ppc&utm_campaign=%5BNW%5D%2B%5BS%5D%2BEDUCA%C3%87%C3%83O%2BEXECUTIVA%2BSP%2B-%2BMARCA&gad_campaignid=21791130199
 
 
+# Petroleum
+
+- https://www.coursera.org/learn/oilandgas
+- https://www.coursera.org/learn/natural-gas
+- https://www.coursera.org/specializations/petroleum-engineering-with-ai-applications
+- https://www.coursera.org/learn/aiml-applications-in-oil-and-gas-industry
+- https://www.unibp.com.br/cursos/basico-em-exploracao-producao-de-petroleo-e-gas-natural/
+- https://www.unibp.com.br/cursos/ciencia-de-dados-aplicada-ao-mercado-de-oleo-e-gas/
+
+
+# GIS
+
+- https://www.udemy.com/course/analise-espacial-com-qgis/?couponCode=LOCLZDOFFPBRCTRL
+- https://www.udemy.com/course/gis-geospatial-analysis-with-python-geopandas-and-folium/?couponCode=LOCLZDOFFPBRCTRL
+- https://www.udemy.com/course/geo-r-geoprocessamento-com-r-na-pratica/?couponCode=LOCLZDOFFPBRCTRL
+- https://www.udemy.com/course/gis-geospatial-analysis-with-python-geopandas-and-folium/?couponCode=LOCLZDOFFPBRC
+- https://www.coursera.org/specializations/gis-mapping-spatial-analysis
+
+# Geospatial
+
+### Repository Bibliographic References:
+
+xperiência comprovada em programa
+
+ão Python e frameworks como Django.
+Conhecimento em processamento de dados geográficos e bibliotecas como Pandas, GeoPandas, Geocoder, Rasterio, Redis, GDAL e NumPy.
+Familiaridade com bancos de dados espaciais (PostGIS) e ferramentas de GIS.
+
+https://www.datacamp.com/courses/visualizing-geospatial-data-in-python
+
+https://medium.com/data-science/visualizing-geospatial-data-in-python-e070374fe621
+
+https://github.com/AhmedKhaled8/Visualizing-Geospatial-Data-in-Python
+
+
 CLIP
 
 LoRA
