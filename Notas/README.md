@@ -19,6 +19,15 @@
 - https://ebaconline.com.br/brand-strategy
 
 
+Deep Learning
+- https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow 
+- https://www.udemy.com/course/formacao-deep-learning-pytorch-python/
+- https://www.udemy.com/course/formacao-deep-learning-tensorflow-python/?couponCode=KEEPLEARNINGBR
+- https://www.udemy.com/course/series-temporais-com-python/?couponCode=KEEPLEARNINGBR
+- https://medium.com/@hassaanidrees7/rnn-vs-lstm-vs-gru-a-comprehensive-guide-to-sequential-data-modeling-03aab16647bb
+- https://medium.com/@mervebdurna/nlp-with-deep-learning-neural-networks-rnns-lstms-and-gru-3de7289bb4f8
+
+
 • Marketing Analytics (Pacotes: LightweightMMM, Robyn, PyMC-Marketing)
 - https://app.datacamp.com/learn/courses/marketing-analytics-for-business
 - https://github.com/google/lightweight_mmm
@@ -59,6 +68,11 @@
 - https://educacao-executiva.fgv.br/cursos/online/pos-graduacao-online/pos-graduacao-em-gerenciamento-de-projetos-2
 
 Pricing
+
+T-Stocastic Neighbor
+UMAP
+KNNs
+KANs
 
 https://www.inf.ufsc.br/~andre.zibetti/probabilidade/cadeias-de-markov.html
 
